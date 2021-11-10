@@ -1,0 +1,11 @@
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\obj\Debug\kursov.csproj.AssemblyReference.cache
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\obj\Debug\kursov.Properties.Resources.resources
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\obj\Debug\kursov.csproj.GenerateResource.cache
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\obj\Debug\kursov.csproj.CoreCompileInputs.cache
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\obj\Debug\kursov.Form1.resources
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\obj\Debug\kursov.frmAbout.resources
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\bin\Debug\kursov.exe.config
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\bin\Debug\kursov.exe
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\bin\Debug\kursov.pdb
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\obj\Debug\kursov.exe
+C:\Users\Olga Romanyuk\source\repos\kursov\kursov\obj\Debug\kursov.pdb
